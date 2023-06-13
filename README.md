@@ -1,6 +1,6 @@
-# adv_basics
+# Flutter Quiz Application
 
-A new Flutter project.
+Simple quize application to check basic knowledge of Flutter language .
 
 ## Getting Started
 
